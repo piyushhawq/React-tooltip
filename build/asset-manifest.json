@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/piyushhawq/Tooltip-react/static/css/main.5d4eb3ba.chunk.css",
+    "main.js": "/piyushhawq/Tooltip-react/static/js/main.8fb3ec7e.chunk.js",
+    "main.js.map": "/piyushhawq/Tooltip-react/static/js/main.8fb3ec7e.chunk.js.map",
+    "runtime-main.js": "/piyushhawq/Tooltip-react/static/js/runtime-main.a52c9fa9.js",
+    "runtime-main.js.map": "/piyushhawq/Tooltip-react/static/js/runtime-main.a52c9fa9.js.map",
+    "static/js/2.0e2e7a76.chunk.js": "/piyushhawq/Tooltip-react/static/js/2.0e2e7a76.chunk.js",
+    "static/js/2.0e2e7a76.chunk.js.map": "/piyushhawq/Tooltip-react/static/js/2.0e2e7a76.chunk.js.map",
+    "index.html": "/piyushhawq/Tooltip-react/index.html",
+    "precache-manifest.e78adb4ad4bae19cb7bde66469414c97.js": "/piyushhawq/Tooltip-react/precache-manifest.e78adb4ad4bae19cb7bde66469414c97.js",
+    "service-worker.js": "/piyushhawq/Tooltip-react/service-worker.js",
+    "static/css/main.5d4eb3ba.chunk.css.map": "/piyushhawq/Tooltip-react/static/css/main.5d4eb3ba.chunk.css.map",
+    "static/js/2.0e2e7a76.chunk.js.LICENSE.txt": "/piyushhawq/Tooltip-react/static/js/2.0e2e7a76.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a52c9fa9.js",
+    "static/js/2.0e2e7a76.chunk.js",
+    "static/css/main.5d4eb3ba.chunk.css",
+    "static/js/main.8fb3ec7e.chunk.js"
+  ]
+}
